@@ -1,2 +1,2 @@
 import "dotenv/config";
-console.log("hello world");
+console.log(process.env.MEANING_OF_LIFE);
