@@ -1,0 +1,11 @@
+{
+  "name": "fed-managing-secrets",
+  "version": "1.0.0",
+  "description": "Example git repo for managing secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "\"Hallvard Benan\"",
+  "license": "ISC"
+}
